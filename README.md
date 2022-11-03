@@ -1,6 +1,6 @@
 ### Introduce
 
-Hi there!👋 I want to become a computer vision expert. 
+Hi there!👋 I changed my job while designing bridges. Because i want to become a computer vision expert. 
 <br></br>
 
 ### Skills
