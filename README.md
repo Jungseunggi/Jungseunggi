@@ -1,9 +1,19 @@
 ### Introduce
 
-Hi there!👋 I want to become a computer vision expert.
+Hi there!👋 I want to become a computer vision expert. 
 <br></br>
 
 ### Skills
+
+<img src='https://img.shields.io/badge/-Python-red'> <img src='https://img.shields.io/badge/-OpenCV-green'> <img src='https://img.shields.io/badge/-Pytorch-blue'>
+
+
+<img src='https://img.shields.io/badge/-3ds Max-purple'> <img src='https://img.shields.io/badge/-Illustrator-yellow'> <img src='https://img.shields.io/badge/-Photoshop-orange'>
+
+
+
+
+
 
 
 <!--
