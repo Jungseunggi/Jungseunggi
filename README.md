@@ -1,4 +1,10 @@
-### Hi there 👋
+### Introduce
+
+Hi there!👋 I want to become a computer vision expert.
+<br></br>
+
+### Skills
+
 
 <!--
 **Jungseunggi/Jungseunggi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
