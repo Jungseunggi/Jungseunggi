@@ -1,6 +1,6 @@
 ### Introduce
 
-Hi there!👋 I decided to quit my bridge design job and move on. Because i want to become a computer vision expert. 
+Hi there!👋 I decided to quit my bridge design job and study. Because i want to become a computer vision expert. 
 <br></br>
 
 
