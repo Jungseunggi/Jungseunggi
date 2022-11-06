@@ -25,7 +25,7 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 <img src="https://user-images.githubusercontent.com/102225200/199161329-9c2b61fd-1937-4120-b915-5cbfe39ce27c.gif" width="400">
 
 ----------------------------------
-image color extract
+image color analysis
 
 <img src="https://user-images.githubusercontent.com/102225200/200155125-efa5cbf0-d377-45e8-a8ca-8e6750b3200d.png" width="600">
 
