@@ -19,15 +19,17 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 
   
 <img src="https://user-images.githubusercontent.com/102225200/199154806-97f6915b-842f-40aa-830a-bdf369599cdf.png" width="300">
-
+<br></br>
 <img src="https://user-images.githubusercontent.com/102225200/199146117-087e63d4-d3d0-4833-85a3-2aa5c61c2210.gif" width="400">
-  
+<br></br>  
 <img src="https://user-images.githubusercontent.com/102225200/199161329-9c2b61fd-1937-4120-b915-5cbfe39ce27c.gif" width="400">
 <br></br>
 
 [Underwater Object detection](https://github.com/Jungseunggi/Object_tracking)
-  
-<img src="https://user-images.githubusercontent.com/102225200/200150206-75274492-925f-4247-8e79-6545f9b3a891.png"  width="400">
+
+<img src="https://user-images.githubusercontent.com/102225200/197948857-0489c21b-9714-43c1-85fa-2edb25f87b71.gif" width="600">
+<br></br>
+<img src="https://user-images.githubusercontent.com/102225200/200150206-75274492-925f-4247-8e79-6545f9b3a891.png"  width="600">
   
 </details>
 
