@@ -12,10 +12,16 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 <img src='https://img.shields.io/badge/-3ds Max-purple'> <img src='https://img.shields.io/badge/-Lumion-green'> <img src='https://img.shields.io/badge/-Illustrator-yellow'> <img src='https://img.shields.io/badge/-Photoshop-orange'>
 
 <details>
-<summary>Open CV</summary>
   
-<br></br>
+<summary>Computer Vision</summary>
+  
+[Object tracking with Open CV](https://github.com/Jungseunggi/Object_tracking)
+  
+<img src="https://user-images.githubusercontent.com/102225200/199161329-9c2b61fd-1937-4120-b915-5cbfe39ce27c.gif" width="400">
 
+[Underwater Object detection](https://github.com/Jungseunggi/Object_tracking)
+  
+<img src="https://user-images.githubusercontent.com/102225200/200150206-75274492-925f-4247-8e79-6545f9b3a891.png"  width="400">
   
 </details>
 
