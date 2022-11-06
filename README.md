@@ -34,7 +34,7 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 </details>
 
 <details>
-<summary>3d modeling, rendering</summary>
+<summary>Computer Graphic</summary>
 
 project
 
