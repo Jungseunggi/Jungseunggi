@@ -18,6 +18,7 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 [Object tracking with Open CV](https://github.com/Jungseunggi/Object_tracking)
   
 <img src="https://user-images.githubusercontent.com/102225200/199161329-9c2b61fd-1937-4120-b915-5cbfe39ce27c.gif" width="400">
+<br></br>
 
 [Underwater Object detection](https://github.com/Jungseunggi/Object_tracking)
   
@@ -27,18 +28,27 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 
 <details>
 <summary>3d modeling, rendering</summary>
-  
-<br></br>
-refernce image
-<sub>https://www.archdaily.com/437896/elliptical-bridge-by-penda-shortlisted-in-uk-competition?ad_medium=gallery</sub>
 
-<img src='https://images.adsttc.com/media/images/5259/a101/e8e4/4e67/bf00/08da/large_jpg/theO_daxb_precht_006.jpg?1381605618' height = 300>
-<img src='https://images.adsttc.com/media/images/5259/a0e7/e8e4/4e67/bf00/08d9/large_jpg/theO_daxb_precht_003a.jpg?1381605596' height = 300>
+project
 
-<br></br>
-modeling and render image
+Full modeling and render(v-ray)
   
-<img src='https://user-images.githubusercontent.com/102225200/200117287-f706b5b9-2e39-4ff8-9618-6e760b3f6fff.png' height = 300>
+<img src='https://user-images.githubusercontent.com/102225200/200150660-80133abb-ac54-47e9-8b48-dbece8ec2677.png' width = 600>
+
+Full modeling and render(lumion)
+  
+<img src="https://user-images.githubusercontent.com/102225200/200150787-e5fec64d-b745-4c38-9dd3-a1bada70aa4e.png" width =600>
+  
+Composite
+  
+<img src="https://user-images.githubusercontent.com/102225200/200150903-1f029963-9579-4334-9bf3-3f6384077c97.png" width =600>
+
+-----------------------
+modeling and render study
+
+<sub>[refernce image](https://www.archdaily.com/437896/elliptical-bridge-by-penda-shortlisted-in-uk-competition?ad_medium=gallery)</sub>
+  
+<img src='https://user-images.githubusercontent.com/102225200/200117287-f706b5b9-2e39-4ff8-9618-6e760b3f6fff.png' height = 300> 
 <img src='https://user-images.githubusercontent.com/102225200/200117316-1e69e4af-f12b-4083-ab0c-fd5d39e6477b.jpg' height = 300>
 
   
