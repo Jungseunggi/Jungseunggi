@@ -30,7 +30,7 @@ image color analysis
 <img src="https://user-images.githubusercontent.com/102225200/200155125-efa5cbf0-d377-45e8-a8ca-8e6750b3200d.png" width="600">
 
 -------------------------------------
-[Underwater Object detection](https://github.com/Jungseunggi/Object_tracking)
+[Underwater Object detection](https://github.com/Jungseunggi/Underwater_object_detection)
 
 <img src="https://user-images.githubusercontent.com/102225200/197948857-0489c21b-9714-43c1-85fa-2edb25f87b71.gif" width="600">
 <br></br>
