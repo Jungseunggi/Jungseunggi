@@ -15,7 +15,7 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
   
 <summary>Computer Vision</summary>
   
-[Object tracking with Open CV](https://github.com/Jungseunggi/Object_tracking)
+[Object tracking with OpenCV](https://github.com/Jungseunggi/Object_tracking)
 
   
 <img src="https://user-images.githubusercontent.com/102225200/199154806-97f6915b-842f-40aa-830a-bdf369599cdf.png" width="300">
@@ -25,6 +25,11 @@ Hi there!👋 I decided to quit my bridge design job and study. Because i want t
 <img src="https://user-images.githubusercontent.com/102225200/199161329-9c2b61fd-1937-4120-b915-5cbfe39ce27c.gif" width="400">
 
 ----------------------------------
+image color extract
+
+<img src="https://user-images.githubusercontent.com/102225200/200155125-efa5cbf0-d377-45e8-a8ca-8e6750b3200d.png" width="600">
+
+-------------------------------------
 [Underwater Object detection](https://github.com/Jungseunggi/Object_tracking)
 
 <img src="https://user-images.githubusercontent.com/102225200/197948857-0489c21b-9714-43c1-85fa-2edb25f87b71.gif" width="600">
