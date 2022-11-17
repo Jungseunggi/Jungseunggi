@@ -1,6 +1,6 @@
 ### Introduce
 
-Hi there!👋 I decided to quit my bridge design job and study. Because i want to become a computer vision expert. 
+안녕하세요~👋 교량디자인팀에서 근무하다 퇴사하여 computer vision에 도전하는 정승기입니다. 
 <br></br>
 
 
