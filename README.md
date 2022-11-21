@@ -35,6 +35,19 @@
 <img src="https://user-images.githubusercontent.com/102225200/197948857-0489c21b-9714-43c1-85fa-2edb25f87b71.gif" width="600">
 <br></br>
 <img src="https://user-images.githubusercontent.com/102225200/200150206-75274492-925f-4247-8e79-6545f9b3a891.png"  width="600">
+
+[Recommend_clothes_size_and_category](https://github.com/Jungseunggi/Recommend_clothes_size_and_category)
+
+
+<img src="https://user-images.githubusercontent.com/102225200/198229281-190de2de-93b8-4bea-8ba3-f3f19a5559fe.png" width="400">
+<br></br>
+<img src="https://user-images.githubusercontent.com/102225200/198245664-4d6d405b-6db0-4e11-aad4-ca64ed01d6e8.png" width="400">
+
+<sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
+
+<img src="https://user-images.githubusercontent.com/102225200/198246196-19a9fc6d-21a4-4558-b146-37d11d8bf8de.png" width="400">
+
+<sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
   
 </details>
 
@@ -61,7 +74,11 @@ modeling and render study
 <sub>[refernce image](https://www.archdaily.com/437896/elliptical-bridge-by-penda-shortlisted-in-uk-competition?ad_medium=gallery)</sub>
   
 <img src='https://user-images.githubusercontent.com/102225200/200117287-f706b5b9-2e39-4ff8-9618-6e760b3f6fff.png' height = 300> 
+  
+
 <img src='https://user-images.githubusercontent.com/102225200/200117316-1e69e4af-f12b-4083-ab0c-fd5d39e6477b.jpg' height = 300>
+
+
 
   
 </details>
