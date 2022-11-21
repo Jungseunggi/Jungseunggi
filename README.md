@@ -36,6 +36,8 @@
 <br></br>
 <img src="https://user-images.githubusercontent.com/102225200/200150206-75274492-925f-4247-8e79-6545f9b3a891.png"  width="600">
 
+-------------------------------------
+
 [Recommend_clothes_size_and_category](https://github.com/Jungseunggi/Recommend_clothes_size_and_category)
 
 
