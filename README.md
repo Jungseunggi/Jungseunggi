@@ -43,14 +43,7 @@
 
 <img src="https://user-images.githubusercontent.com/102225200/198229281-190de2de-93b8-4bea-8ba3-f3f19a5559fe.png" width="400">
 <br></br>
-<img src="https://user-images.githubusercontent.com/102225200/198245664-4d6d405b-6db0-4e11-aad4-ca64ed01d6e8.png" width="400">
 
-<sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
-
-<img src="https://user-images.githubusercontent.com/102225200/198246196-19a9fc6d-21a4-4558-b146-37d11d8bf8de.png" width="400">
-
-<sub> 왼쪽 : 초기, 오른쪽 : 최종</sub>
-  
 </details>
 
 <details>
